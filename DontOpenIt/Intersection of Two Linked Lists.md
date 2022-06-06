@@ -4,7 +4,6 @@ Given the heads of two singly linked-lists headA and headB, return the node at w
 
 The test cases are generated such that there are no cycles anywhere in the entire linked structure.
 
-Note that the linked lists must retain their original structure after the function returns.
 
 ```
 /**
