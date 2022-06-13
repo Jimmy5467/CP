@@ -19,7 +19,6 @@ public:
 };
 ```
 
-
 If dont understood or have any better solution, lets discuss it on [discussions](https://github.com/Jimmy5467/CP/discussions). 
 
 Star it, if helped ⭐.
